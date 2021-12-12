@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\Gif Maker\Gif Maker\bin\Debug\Gif Maker.exe.config
+C:\Users\Lenovo\source\repos\Gif Maker\Gif Maker\bin\Debug\Gif Maker.exe
+C:\Users\Lenovo\source\repos\Gif Maker\Gif Maker\bin\Debug\Gif Maker.pdb
+C:\Users\Lenovo\source\repos\Gif Maker\Gif Maker\obj\Debug\Gif Maker.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Gif Maker\Gif Maker\obj\Debug\Gif Maker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\Gif Maker\Gif Maker\obj\Debug\Gif Maker.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Gif Maker\Gif Maker\obj\Debug\Gif Maker.exe
+C:\Users\Lenovo\source\repos\Gif Maker\Gif Maker\obj\Debug\Gif Maker.pdb
+C:\Users\Lenovo\source\repos\Gif Maker\Gif Maker\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+C:\Users\Lenovo\source\repos\Gif Maker\Gif Maker\bin\Debug\Magick.NET.Core.dll
+C:\Users\Lenovo\source\repos\Gif Maker\Gif Maker\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+C:\Users\Lenovo\source\repos\Gif Maker\Gif Maker\bin\Debug\Magick.NET.Core.xml
+C:\Users\Lenovo\source\repos\Gif Maker\Gif Maker\obj\Debug\Gif Maker.csproj.CopyComplete
